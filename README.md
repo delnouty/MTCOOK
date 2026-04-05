@@ -26,3 +26,5 @@ Ce projet sert de squelette pour un pipeline Machine Learning modulaire :
 - translators : transformation ou traduction  
 - evaluators : évaluation  
 - orchestrator : coordination du pipeline  
+
+TEST CI
